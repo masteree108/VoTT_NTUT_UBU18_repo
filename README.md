@@ -94,5 +94,6 @@ $ repo start master --all
 ## 3. 相關文件
 1. [VoTT 安裝流程與建立專案(Ubuntu 18.04)](https://hackmd.io/@NTUTVOTT/rymTpoVUD)
 2. [使用 cygwin64 在 windows10 執行git和repo工具](https://hackmd.io/@NTUTVOTT/SkPb4Z7Lv)
+3. [VoTT 如何在label目標後產生.json檔案與資料格式解說](https://hackmd.io/@NTUTVOTT/S1gPd4ISv)
 
 
