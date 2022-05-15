@@ -15,21 +15,18 @@ NTUT_VoTT tool is a modified version of Microsoft VoTT (based on Version: V2.2.0
 
 #### Multi-core tracking
 
-::: info 
-The below video shows NTUT VoTT how to save your time for labeling objects, you don't need to label those objects each frame, and this tool supports multi-core tracking which can speed up while you tracking more objects. 
-:::
 
-{%youtube HBhuFISKryk%}
+### The below video shows NTUT VoTT how to save your time for labeling objects, you don't need to label those objects each frame, and this tool supports multi-core tracking which can speed up while you tracking more objects. 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HBhuFISKryk/0.jpg)](https://www.youtube.com/watch?v=HBhuFISKryk DEMO)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HBhuFISKryk/0.jpg)](https://www.youtube.com/watch?v=HBhuFISKryk "DEMO")
 
 
 #### Automatically correct the size of the bounding box
-::: info
-Still do not know how the bounding box size is most fit? try this functionality like the below video.
-:::
 
-{%youtube eYOl32M3UXs%}
+### Still do not know how the bounding box size is most fit? try this functionality like the below video.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/eYOl32M3UXs/0.jpg)](https://www.youtube.com/watch?v=eYOl32M3UXs "DEMO")
+
 
 ##  Project description and dowlond links
 
@@ -40,17 +37,15 @@ This Source Code is based on developing new features on Microsoft/VoTT version 2
 ###  [CVTRK_UBU18](https://github.com/masteree108/CVTRK_UBU18)
 Additional new automatic tracking of objects
 
-::: warning
-VoTT_NTUT_UBU18 and CVTRK_UBU18 both need to 
-setup development environment.
-:::
+
+### VoTT_NTUT_UBU18 and CVTRK_UBU18 both need to setup development environment.
+
 
 ###  [NTUT_VoTT](https://drive.google.com/file/d/19cLyGzex89NI0JJu2wipRyMgT5nbZdIj/view?usp=sharing)
 The new version exe of VoTT executable file integrated by NTUT
 
-::: success
-It doesn't need to setup any development environment, this tool can execute it directly.
-:::
+
+### It doesn't need to setup any development environment, this tool can execute it directly.
 
 ##  VoTT basic operation
 VoTT allows user to fine tune the bounding boxes using the arrow keys in a few different ways. While a region is selected:
@@ -79,13 +74,14 @@ Click the gear icon in the lower left corner and enter the security token above.
 
 
 ##  NTUT VoTT video soure and target file path
-:::warning
-Please note if you need to run function of NTUT VoTT, it needs to put below tool and project folder on the right path.
+
+### Please note if you need to run function of NTUT VoTT, it needs to put below tool and project folder on the right path.
+```
 (1) NTUT_VoTT_v0.0.7_stable.zip
 (2) video source folder
 (3) traget folder
 Please as follows
-:::
+```
 
 ### (1) NTUT_VoTT.exe path
 please extract NTUT_VoTT_v0.0.7_stable.zip on the /home/user/label_project
@@ -187,9 +183,9 @@ After completing the project setting, the initial screen comes in as shown in th
 ![](https://i.imgur.com/X4cndnD.png)
 
 
-::: info 
-Please note TAGS area needs to create by yourself. Default has nothing.
-:::
+
+### Please note TAGS area needs to create by yourself. Default has nothing.
+
 
 ### Function Bar
 #### Tracking time 
@@ -222,9 +218,9 @@ As shown in the figure below, character have been labeled and assigned id_001+ru
 
 ![](https://i.imgur.com/SOApwa6.jpg)
 
-:::warning
-Please note using the function of NTUT_VoTT it must label id_00x tag on the object,  otherwise it can't work , like the below figure.
-:::
+
+### Please note using the function of NTUT_VoTT it must label id_00x tag on the object,  otherwise it can't work , like the below figure.
+
 
 ![](https://i.imgur.com/96c2LJ7.png)
 
