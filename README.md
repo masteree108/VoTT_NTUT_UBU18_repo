@@ -21,7 +21,7 @@ The below video shows NTUT VoTT how to save your time for labeling objects, you 
 
 {%youtube HBhuFISKryk%}
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/"YOUR_VIDEO_ID"/0.jpg)](https://www.youtube.com/watch?v="HBhuFISKryk" "DEMO")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HBhuFISKryk/0.jpg)](https://www.youtube.com/watch?v=HBhuFISKryk DEMO)
 
 
 #### Automatically correct the size of the bounding box
