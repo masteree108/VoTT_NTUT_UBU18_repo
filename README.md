@@ -188,6 +188,10 @@ After completing the project setting, the initial screen comes in as shown in th
 
 
 ### Function Bar
+
+below function icons and functionality are made by NTUT
+![image](https://user-images.githubusercontent.com/71277055/168471939-e96af9c2-9fad-4273-9c4f-a46510608680.png)
+
 #### Tracking time 
 User can set the time they want to track.For example,if project setting set video with 6 fps and a Tracking time of 1 will track 6 frames.if Tracking time set 0 is mean only tracking next frame.
 ![](https://i.imgur.com/UoIWGHT.png)
