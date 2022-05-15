@@ -4,6 +4,9 @@ disqus: hackmd
 ---
 [TOC]
 # NTUT VoTT
+
+[It is recommended to watch the README here](https://hackmd.io/@NTUTVOTT/S1ahTFFUc)
+
 ##  Main Features of NTUT VoTT
 NTUT_VoTT tool is a modified version of Microsoft VoTT (based on Version: V2.2.0) open-source labeling software. It has the following new features:
 ####  Automatic tracking after labeling, to reduce the tedious work of re-labeling each frame
