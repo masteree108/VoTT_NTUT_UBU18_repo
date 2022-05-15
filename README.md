@@ -187,7 +187,7 @@ After completing the project setting, the initial screen comes in as shown in th
 ### Please note TAGS area needs to create by yourself. Default has nothing.
 
 
-### Function Bar
+### NTUT VoTT Function Bar 
 
 below function icons and functionality are made by NTUT
 ![image](https://user-images.githubusercontent.com/71277055/168471939-e96af9c2-9fad-4273-9c4f-a46510608680.png)
